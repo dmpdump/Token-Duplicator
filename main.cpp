@@ -82,7 +82,7 @@ void main(int argc, char* argv[])
 {
 	if (argc < 2)
 	{
-		printf("\nElevates privilege from Administrator to SYSTEM. Run with Administrator privilege\n");
+		printf("\nElevates privilege from Administrator to SYSTEM. Run with Administrator privilege.\n");
 		printf("[+] Usage: tokendup.exe <pid of process with SYSTEM privilege>\n");
 	}
 	
